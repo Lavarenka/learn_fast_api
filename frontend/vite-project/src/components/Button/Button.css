@@ -1,0 +1,6 @@
+.but{
+    color: #61dafb;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
